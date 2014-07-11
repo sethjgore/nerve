@@ -2,6 +2,7 @@
   "name": "nerve",
   "version": "0.0.0",
   "homepage": "https://github.com/sethjgore/nerve",
+  "main": "./nerve.sass",
   "authors": [
     "sethjgore <sethjgore@gmail.com>"
   ],
