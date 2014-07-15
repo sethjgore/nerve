@@ -1,6 +1,6 @@
 .nerve__smack {
-  -webkit-animation: smack 1000ms linear both;
-  animation: smack 1000ms linear both;
+  -webkit-animation: smack 3000ms linear both;
+  animation: smack 3000ms cubic-beizer both;
 }
 
 /* Generated with Bounce.js. Edit at http://goo.gl/Vn2Euz */
